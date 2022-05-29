@@ -1,0 +1,10 @@
+.btn {
+  text-transform: capitalize;
+  cursor: pointer;
+  margin-right: 10px;
+  font-size: large;
+}
+
+.boxButton {
+  display: flex;
+}

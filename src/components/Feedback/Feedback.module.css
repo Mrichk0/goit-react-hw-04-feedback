@@ -1,0 +1,5 @@
+.container {
+  width: 300px;
+  display: grid;
+  margin-left: 30px;
+}
